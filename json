@@ -1,0 +1,16 @@
+{
+    "firstName": "Aitursun",
+    "lastName": "Bekboeva",
+    "isAlive": true,
+    "age": 17,
+    "country": "Kyrgyzstan",
+    "details": {
+        "city": "Bishkek",
+        "postalCode": 720000
+    },
+    "education": {
+        "institut": "INAI",
+        "faculty": "Medical Informatics"
+    }
+
+}
